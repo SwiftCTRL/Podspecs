@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
                   LICENSE
                 }
     s.author             = { "Sylvain Bouchard" => "sylvain@waizulabs.com" }
-    s.source           = { :git => 'https://github.com/SwiftCTRL/SwiftCTRLPodsDev.git', :tag => s.version.to_s }
+    s.source           = { :git => 'https://github.com/SwiftCTRL/SwiftCTRLPods.git', :tag => s.version.to_s }
 
 
     s.vendored_frameworks = "SwiftCTRLSDK.xcframework"
